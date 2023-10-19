@@ -1,0 +1,1676 @@
+Input=	['дорогой', 'новый', 'книга'];	Tags=	Case=Nom;Number=Sing
+	Output Success=['дорогая', 'новая', 'книга']
+
+Input=	['дорогой', 'новый', 'книга'];	Tags=	Case=Gen;Number=Sing
+	Output Success=['дорогой', 'новой', 'книги']
+
+Input=	['дорогой', 'новый', 'книга'];	Tags=	Case=Acc;Number=Sing
+	Output Success=['дорогую', 'новую', 'книгу']
+
+Input=	['дорогой', 'новый', 'книга'];	Tags=	Case=Dat;Number=Sing
+	Output Success=['дорогой', 'новой', 'книге']
+
+Input=	['дорогой', 'новый', 'книга'];	Tags=	Case=Ins;Number=Sing
+	Output Success=['дорогой', 'новой', 'книгой']
+
+Input=	['дорогой', 'новый', 'книга'];	Tags=	Case=Loc;Number=Sing
+	Output Success=['дорогой', 'новой', 'книге']
+
+Input=	['дорогой', 'новый', 'книга'];	Tags=	Case=Nom;Number=Plur
+	Output Success=['дорогие', 'новые', 'книги']
+
+Input=	['дорогой', 'новый', 'книга'];	Tags=	Case=Gen;Number=Plur
+	Output Success=['дорогих', 'новых', 'книг']
+
+Input=	['дорогой', 'новый', 'книга'];	Tags=	Case=Acc;Number=Plur
+	Output Success=['дорогие', 'новые', 'книги']
+
+Input=	['дорогой', 'новый', 'книга'];	Tags=	Case=Dat;Number=Plur
+	Output Success=['дорогим', 'новым', 'книгам']
+
+Input=	['дорогой', 'новый', 'книга'];	Tags=	Case=Ins;Number=Plur
+	Output Success=['дорогими', 'новыми', 'книгами']
+
+Input=	['дорогой', 'новый', 'книга'];	Tags=	Case=Loc;Number=Plur
+	Output Success=['дорогих', 'новых', 'книгах']
+
+Input=	['большой', 'агрессивный', 'собака'];	Tags=	Case=Nom;Number=Sing
+	Output Success=['большая', 'агрессивная', 'собака']
+
+Input=	['большой', 'агрессивный', 'собака'];	Tags=	Case=Gen;Number=Sing
+	Output Success=['большой', 'агрессивной', 'собаки']
+
+Input=	['большой', 'агрессивный', 'собака'];	Tags=	Case=Acc;Number=Sing
+	Output Success=['большую', 'агрессивную', 'собаку']
+
+Input=	['большой', 'агрессивный', 'собака'];	Tags=	Case=Dat;Number=Sing
+	Output Success=['большой', 'агрессивной', 'собаке']
+
+Input=	['большой', 'агрессивный', 'собака'];	Tags=	Case=Ins;Number=Sing
+	Output Success=['большой', 'агрессивной', 'собакой']
+
+Input=	['большой', 'агрессивный', 'собака'];	Tags=	Case=Loc;Number=Sing
+	Output Success=['большой', 'агрессивной', 'собаке']
+
+Input=	['большой', 'агрессивный', 'собака'];	Tags=	Case=Nom;Number=Plur
+	Output Success=['большие', 'агрессивные', 'собаки']
+
+Input=	['большой', 'агрессивный', 'собака'];	Tags=	Case=Gen;Number=Plur
+	Output Success=['больших', 'агрессивных', 'собак']
+
+Input=	['большой', 'агрессивный', 'собака'];	Tags=	Case=Acc;Number=Plur
+	Output Success=['больших', 'агрессивных', 'собак']
+
+Input=	['большой', 'агрессивный', 'собака'];	Tags=	Case=Dat;Number=Plur
+	Output Success=['большим', 'агрессивным', 'собакам']
+
+Input=	['большой', 'агрессивный', 'собака'];	Tags=	Case=Ins;Number=Plur
+	Output Success=['большими', 'агрессивными', 'собаками']
+
+Input=	['большой', 'агрессивный', 'собака'];	Tags=	Case=Loc;Number=Plur
+	Output Success=['больших', 'агрессивных', 'собаках']
+
+Input=	['хрупкий', 'фарфоровый', 'стакан'];	Tags=	Case=Nom;Number=Sing
+	Output Success=['хрупкий', 'фарфоровый', 'стакан']
+
+Input=	['хрупкий', 'фарфоровый', 'стакан'];	Tags=	Case=Gen;Number=Sing
+	Output Success=['хрупкого', 'фарфорового', 'стакана']
+
+Input=	['хрупкий', 'фарфоровый', 'стакан'];	Tags=	Case=Acc;Number=Sing
+	Output Success=['хрупкий', 'фарфоровый', 'стакан']
+
+Input=	['хрупкий', 'фарфоровый', 'стакан'];	Tags=	Case=Dat;Number=Sing
+	Output Success=['хрупкому', 'фарфоровому', 'стакану']
+
+Input=	['хрупкий', 'фарфоровый', 'стакан'];	Tags=	Case=Ins;Number=Sing
+	Output Success=['хрупким', 'фарфоровым', 'стаканом']
+
+Input=	['хрупкий', 'фарфоровый', 'стакан'];	Tags=	Case=Loc;Number=Sing
+	Output Success=['хрупком', 'фарфоровом', 'стакане']
+
+Input=	['хрупкий', 'фарфоровый', 'стакан'];	Tags=	Case=Nom;Number=Plur
+	Output Success=['хрупкие', 'фарфоровые', 'стаканы']
+
+Input=	['хрупкий', 'фарфоровый', 'стакан'];	Tags=	Case=Gen;Number=Plur
+	Output Success=['хрупких', 'фарфоровых', 'стаканов']
+
+Input=	['хрупкий', 'фарфоровый', 'стакан'];	Tags=	Case=Acc;Number=Plur
+	Output Success=['хрупкие', 'фарфоровые', 'стаканы']
+
+Input=	['хрупкий', 'фарфоровый', 'стакан'];	Tags=	Case=Dat;Number=Plur
+	Output Success=['хрупким', 'фарфоровым', 'стаканам']
+
+Input=	['хрупкий', 'фарфоровый', 'стакан'];	Tags=	Case=Ins;Number=Plur
+	Output Success=['хрупкими', 'фарфоровыми', 'стаканами']
+
+Input=	['хрупкий', 'фарфоровый', 'стакан'];	Tags=	Case=Loc;Number=Plur
+	Output Success=['хрупких', 'фарфоровых', 'стаканах']
+
+Input=	['высокий', 'худой', 'актер'];	Tags=	Case=Nom;Number=Sing
+	Output Success=['высокий', 'худой', 'актер']
+
+Input=	['высокий', 'худой', 'актер'];	Tags=	Case=Gen;Number=Sing
+	Output Success=['высокого', 'худого', 'актера']
+
+Input=	['высокий', 'худой', 'актер'];	Tags=	Case=Acc;Number=Sing
+	Output Success=['высокого', 'худого', 'актера']
+
+Input=	['высокий', 'худой', 'актер'];	Tags=	Case=Dat;Number=Sing
+	Output Success=['высокому', 'худому', 'актеру']
+
+Input=	['высокий', 'худой', 'актер'];	Tags=	Case=Ins;Number=Sing
+	Output Success=['высоким', 'худым', 'актером']
+
+Input=	['высокий', 'худой', 'актер'];	Tags=	Case=Loc;Number=Sing
+	Output Success=['высоком', 'худом', 'актере']
+
+Input=	['высокий', 'худой', 'актер'];	Tags=	Case=Nom;Number=Plur
+	Output Success=['высокие', 'худые', 'актеры']
+
+Input=	['высокий', 'худой', 'актер'];	Tags=	Case=Gen;Number=Plur
+	Output Success=['высоких', 'худых', 'актеров']
+
+Input=	['высокий', 'худой', 'актер'];	Tags=	Case=Acc;Number=Plur
+	Output Success=['высоких', 'худых', 'актеров']
+
+Input=	['высокий', 'худой', 'актер'];	Tags=	Case=Dat;Number=Plur
+	Output Success=['высоким', 'худым', 'актерам']
+
+Input=	['высокий', 'худой', 'актер'];	Tags=	Case=Ins;Number=Plur
+	Output Success=['высокими', 'худыми', 'актерами']
+
+Input=	['высокий', 'худой', 'актер'];	Tags=	Case=Loc;Number=Plur
+	Output Success=['высоких', 'худых', 'актерах']
+
+Input=	['бескрайний', 'синий', 'полотенце'];	Tags=	Case=Nom;Number=Sing
+	Output Success=['бескрайнее', 'синее', 'полотенце']
+
+Input=	['бескрайний', 'синий', 'полотенце'];	Tags=	Case=Gen;Number=Sing
+	Output Success=['бескрайнего', 'синего', 'полотенца']
+
+Input=	['бескрайний', 'синий', 'полотенце'];	Tags=	Case=Acc;Number=Sing
+	Output Success=['бескрайнее', 'синее', 'полотенце']
+
+Input=	['бескрайний', 'синий', 'полотенце'];	Tags=	Case=Dat;Number=Sing
+	Output Success=['бескрайнему', 'синему', 'полотенцу']
+
+Input=	['бескрайний', 'синий', 'полотенце'];	Tags=	Case=Ins;Number=Sing
+	Output Success=['бескрайним', 'синим', 'полотенцем']
+
+Input=	['бескрайний', 'синий', 'полотенце'];	Tags=	Case=Loc;Number=Sing
+	Output Success=['бескрайнем', 'синем', 'полотенце']
+
+Input=	['бескрайний', 'синий', 'полотенце'];	Tags=	Case=Nom;Number=Plur
+	Output Success=['бескрайние', 'синие', 'полотенца']
+
+Input=	['бескрайний', 'синий', 'полотенце'];	Tags=	Case=Gen;Number=Plur
+	Output Success=['бескрайних', 'синих', 'полотенец']
+
+Input=	['бескрайний', 'синий', 'полотенце'];	Tags=	Case=Acc;Number=Plur
+	Output Success=['бескрайние', 'синие', 'полотенца']
+
+Input=	['бескрайний', 'синий', 'полотенце'];	Tags=	Case=Dat;Number=Plur
+	Output Success=['бескрайним', 'синим', 'полотенцам']
+
+Input=	['бескрайний', 'синий', 'полотенце'];	Tags=	Case=Ins;Number=Plur
+	Output Success=['бескрайними', 'синими', 'полотенцами']
+
+Input=	['бескрайний', 'синий', 'полотенце'];	Tags=	Case=Loc;Number=Plur
+	Output Success=['бескрайних', 'синих', 'полотенцах']
+
+Input=	['маленький', 'опасный', 'чадо'];	Tags=	Case=Nom;Number=Sing
+	Output Success=['маленькое', 'опасное', 'чадо']
+
+Input=	['маленький', 'опасный', 'чадо'];	Tags=	Case=Gen;Number=Sing
+	Output Success=['маленького', 'опасного', 'чада']
+
+Input=	['маленький', 'опасный', 'чадо'];	Tags=	Case=Acc;Number=Sing
+	Output Success=['маленькое', 'опасное', 'чадо']
+
+Input=	['маленький', 'опасный', 'чадо'];	Tags=	Case=Dat;Number=Sing
+	Output Success=['маленькому', 'опасному', 'чаду']
+
+Input=	['маленький', 'опасный', 'чадо'];	Tags=	Case=Ins;Number=Sing
+	Output Success=['маленьким', 'опасным', 'чадом']
+
+Input=	['маленький', 'опасный', 'чадо'];	Tags=	Case=Loc;Number=Sing
+	Output Success=['маленьком', 'опасном', 'чаде']
+
+Input=	['маленький', 'опасный', 'чадо'];	Tags=	Case=Nom;Number=Plur
+	Output Success=['маленькие', 'опасные', 'чада']
+
+Input=	['маленький', 'опасный', 'чадо'];	Tags=	Case=Gen;Number=Plur
+	Output Success=['маленьких', 'опасных', 'чад']
+
+Input=	['маленький', 'опасный', 'чадо'];	Tags=	Case=Acc;Number=Plur
+	Output Success=['маленьких', 'опасных', 'чад']
+
+Input=	['маленький', 'опасный', 'чадо'];	Tags=	Case=Dat;Number=Plur
+	Output Success=['маленьким', 'опасным', 'чадам']
+
+Input=	['маленький', 'опасный', 'чадо'];	Tags=	Case=Ins;Number=Plur
+	Output Success=['маленькими', 'опасными', 'чадами']
+
+Input=	['маленький', 'опасный', 'чадо'];	Tags=	Case=Loc;Number=Plur
+	Output Success=['маленьких', 'опасных', 'чадах']
+
+Input=	['два', 'столб'];	Tags=	Case=Nom;Gender=Masc
+	Output Success=['два', 'столба']
+
+Input=	['два', 'столб'];	Tags=	Case=Gen;Gender=Masc
+	Output Success=['двух', 'столбов']
+
+Input=	['два', 'столб'];	Tags=	Case=Acc;Gender=Masc
+	Output Success=['два', 'столба']
+
+Input=	['два', 'столб'];	Tags=	Case=Dat;Gender=Masc
+	Output Success=['двум', 'столбам']
+
+Input=	['два', 'столб'];	Tags=	Case=Ins;Gender=Masc
+	Output Success=['двумя', 'столбами']
+
+Input=	['два', 'столб'];	Tags=	Case=Loc;Gender=Masc
+	Output Success=['двух', 'столбах']
+
+Input=	['два', 'участник'];	Tags=	Case=Nom;Gender=Masc
+	Output Success=['два', 'участника']
+
+Input=	['два', 'участник'];	Tags=	Case=Gen;Gender=Masc
+	Output Success=['двух', 'участников']
+
+Input=	['два', 'участник'];	Tags=	Case=Acc;Gender=Masc
+	Output Success=['двух', 'участников']
+
+Input=	['два', 'участник'];	Tags=	Case=Dat;Gender=Masc
+	Output Success=['двум', 'участникам']
+
+Input=	['два', 'участник'];	Tags=	Case=Ins;Gender=Masc
+	Output Success=['двумя', 'участниками']
+
+Input=	['два', 'участник'];	Tags=	Case=Loc;Gender=Masc
+	Output Success=['двух', 'участниках']
+
+Input=	['два', 'скрипка'];	Tags=	Case=Nom;Gender=Fem
+	Output Success=['две', 'скрипки']
+
+Input=	['два', 'скрипка'];	Tags=	Case=Gen;Gender=Fem
+	Output Success=['двух', 'скрипок']
+
+Input=	['два', 'скрипка'];	Tags=	Case=Acc;Gender=Fem
+	Output Success=['две', 'скрипки']
+
+Input=	['два', 'скрипка'];	Tags=	Case=Dat;Gender=Fem
+	Output Success=['двум', 'скрипкам']
+
+Input=	['два', 'скрипка'];	Tags=	Case=Ins;Gender=Fem
+	Output Success=['двумя', 'скрипками']
+
+Input=	['два', 'скрипка'];	Tags=	Case=Loc;Gender=Fem
+	Output Success=['двух', 'скрипках']
+
+Input=	['два', 'девочка'];	Tags=	Case=Nom;Gender=Fem
+	Output Success=['две', 'девочки']
+
+Input=	['два', 'девочка'];	Tags=	Case=Gen;Gender=Fem
+	Output Success=['двух', 'девочек']
+
+Input=	['два', 'девочка'];	Tags=	Case=Acc;Gender=Fem
+	Output Success=['двух', 'девочек']
+
+Input=	['два', 'девочка'];	Tags=	Case=Dat;Gender=Fem
+	Output Success=['двум', 'девочкам']
+
+Input=	['два', 'девочка'];	Tags=	Case=Ins;Gender=Fem
+	Output Success=['двумя', 'девочками']
+
+Input=	['два', 'девочка'];	Tags=	Case=Loc;Gender=Fem
+	Output Success=['двух', 'девочках']
+
+Input=	['два', 'полотно'];	Tags=	Case=Nom;Gender=Neut
+	Output Success=['два', 'полотна']
+
+Input=	['два', 'полотно'];	Tags=	Case=Gen;Gender=Neut
+	Output Success=['двух', 'полотен']
+
+Input=	['два', 'полотно'];	Tags=	Case=Acc;Gender=Neut
+	Output Success=['два', 'полотна']
+
+Input=	['два', 'полотно'];	Tags=	Case=Dat;Gender=Neut
+	Output Success=['двум', 'полотнам']
+
+Input=	['два', 'полотно'];	Tags=	Case=Ins;Gender=Neut
+	Output Success=['двумя', 'полотнами']
+
+Input=	['два', 'полотно'];	Tags=	Case=Loc;Gender=Neut
+	Output Success=['двух', 'полотнах']
+
+Input=	['три', 'бокал'];	Tags=	Case=Nom;Gender=Masc
+	Output Success=['три', 'бокала']
+
+Input=	['три', 'бокал'];	Tags=	Case=Gen;Gender=Masc
+	Output Success=['трех', 'бокалов']
+
+Input=	['три', 'бокал'];	Tags=	Case=Acc;Gender=Masc
+	Output Success=['три', 'бокала']
+
+Input=	['три', 'бокал'];	Tags=	Case=Dat;Gender=Masc
+	Output Success=['трем', 'бокалам']
+
+Input=	['три', 'бокал'];	Tags=	Case=Ins;Gender=Masc
+	Output Success=['тремя', 'бокалами']
+
+Input=	['три', 'бокал'];	Tags=	Case=Loc;Gender=Masc
+	Output Success=['трех', 'бокалах']
+
+Input=	['три', 'врач'];	Tags=	Case=Nom;Gender=Masc
+	Output Success=['три', 'врача']
+
+Input=	['три', 'врач'];	Tags=	Case=Gen;Gender=Masc
+	Output Success=['трех', 'врачей']
+
+Input=	['три', 'врач'];	Tags=	Case=Acc;Gender=Masc
+	Output Success=['трех', 'врачей']
+
+Input=	['три', 'врач'];	Tags=	Case=Dat;Gender=Masc
+	Output Success=['трем', 'врачам']
+
+Input=	['три', 'врач'];	Tags=	Case=Ins;Gender=Masc
+	Output Success=['тремя', 'врачами']
+
+Input=	['три', 'врач'];	Tags=	Case=Loc;Gender=Masc
+	Output Success=['трех', 'врачах']
+
+Input=	['три', 'лампа'];	Tags=	Case=Nom;Gender=Fem
+	Output Success=['три', 'лампы']
+
+Input=	['три', 'лампа'];	Tags=	Case=Gen;Gender=Fem
+	Output Success=['трех', 'ламп']
+
+Input=	['три', 'лампа'];	Tags=	Case=Acc;Gender=Fem
+	Output Success=['три', 'лампы']
+
+Input=	['три', 'лампа'];	Tags=	Case=Dat;Gender=Fem
+	Output Success=['трем', 'лампам']
+
+Input=	['три', 'лампа'];	Tags=	Case=Ins;Gender=Fem
+	Output Success=['тремя', 'лампами']
+
+Input=	['три', 'лампа'];	Tags=	Case=Loc;Gender=Fem
+	Output Success=['трех', 'лампах']
+
+Input=	['три', 'студентка'];	Tags=	Case=Nom;Gender=Fem
+	Output Success=['три', 'студентки']
+
+Input=	['три', 'студентка'];	Tags=	Case=Gen;Gender=Fem
+	Output Success=['трех', 'студенток']
+
+Input=	['три', 'студентка'];	Tags=	Case=Acc;Gender=Fem
+	Output Success=['трех', 'студенток']
+
+Input=	['три', 'студентка'];	Tags=	Case=Dat;Gender=Fem
+	Output Success=['трем', 'студенткам']
+
+Input=	['три', 'студентка'];	Tags=	Case=Ins;Gender=Fem
+	Output Success=['тремя', 'студентками']
+
+Input=	['три', 'студентка'];	Tags=	Case=Loc;Gender=Fem
+	Output Success=['трех', 'студентках']
+
+Input=	['три', 'яблоко'];	Tags=	Case=Nom;Gender=Neut
+	Output Success=['три', 'яблока']
+
+Input=	['три', 'яблоко'];	Tags=	Case=Gen;Gender=Neut
+	Output Success=['трех', 'яблок']
+
+Input=	['три', 'яблоко'];	Tags=	Case=Acc;Gender=Neut
+	Output Success=['три', 'яблока']
+
+Input=	['три', 'яблоко'];	Tags=	Case=Dat;Gender=Neut
+	Output Success=['трем', 'яблокам']
+
+Input=	['три', 'яблоко'];	Tags=	Case=Ins;Gender=Neut
+	Output Success=['тремя', 'яблоками']
+
+Input=	['три', 'яблоко'];	Tags=	Case=Loc;Gender=Neut
+	Output Success=['трех', 'яблоках']
+
+Input=	['четыре', 'стул'];	Tags=	Case=Nom;Gender=Masc
+	Output Success=['четыре', 'стула']
+
+Input=	['четыре', 'стул'];	Tags=	Case=Gen;Gender=Masc
+	Output Success=['четырех', 'стульев']
+
+Input=	['четыре', 'стул'];	Tags=	Case=Acc;Gender=Masc
+	Output Success=['четыре', 'стула']
+
+Input=	['четыре', 'стул'];	Tags=	Case=Dat;Gender=Masc
+	Output Success=['четырем', 'стульям']
+
+Input=	['четыре', 'стул'];	Tags=	Case=Ins;Gender=Masc
+	Output Success=['четырьмя', 'стульями']
+
+Input=	['четыре', 'стул'];	Tags=	Case=Loc;Gender=Masc
+	Output Success=['четырех', 'стульях']
+
+Input=	['четыре', 'мальчик'];	Tags=	Case=Nom;Gender=Masc
+	Output Success=['четыре', 'мальчика']
+
+Input=	['четыре', 'мальчик'];	Tags=	Case=Gen;Gender=Masc
+	Output Success=['четырех', 'мальчиков']
+
+Input=	['четыре', 'мальчик'];	Tags=	Case=Acc;Gender=Masc
+	Output Success=['четырех', 'мальчиков']
+
+Input=	['четыре', 'мальчик'];	Tags=	Case=Dat;Gender=Masc
+	Output Success=['четырем', 'мальчикам']
+
+Input=	['четыре', 'мальчик'];	Tags=	Case=Ins;Gender=Masc
+	Output Success=['четырьмя', 'мальчиками']
+
+Input=	['четыре', 'мальчик'];	Tags=	Case=Loc;Gender=Masc
+	Output Success=['четырех', 'мальчиках']
+
+Input=	['четыре', 'свеча'];	Tags=	Case=Nom;Gender=Fem
+	Output Success=['четыре', 'свечи']
+
+Input=	['четыре', 'свеча'];	Tags=	Case=Gen;Gender=Fem
+	Output Success=['четырех', 'свеч']
+
+Input=	['четыре', 'свеча'];	Tags=	Case=Acc;Gender=Fem
+	Output Success=['четыре', 'свечи']
+
+Input=	['четыре', 'свеча'];	Tags=	Case=Dat;Gender=Fem
+	Output Success=['четырем', 'свечам']
+
+Input=	['четыре', 'свеча'];	Tags=	Case=Ins;Gender=Fem
+	Output Success=['четырьмя', 'свечами']
+
+Input=	['четыре', 'свеча'];	Tags=	Case=Loc;Gender=Fem
+	Output Success=['четырех', 'свечах']
+
+Input=	['четыре', 'сотрудница'];	Tags=	Case=Nom;Gender=Fem
+	Output Success=['четыре', 'сотрудницы']
+
+Input=	['четыре', 'сотрудница'];	Tags=	Case=Gen;Gender=Fem
+	Output Success=['четырех', 'сотрудниц']
+
+Input=	['четыре', 'сотрудница'];	Tags=	Case=Acc;Gender=Fem
+	Output Success=['четырех', 'сотрудниц']
+
+Input=	['четыре', 'сотрудница'];	Tags=	Case=Dat;Gender=Fem
+	Output Success=['четырем', 'сотрудницам']
+
+Input=	['четыре', 'сотрудница'];	Tags=	Case=Ins;Gender=Fem
+	Output Success=['четырьмя', 'сотрудницами']
+
+Input=	['четыре', 'сотрудница'];	Tags=	Case=Loc;Gender=Fem
+	Output Success=['четырех', 'сотрудницах']
+
+Input=	['четыре', 'ведро'];	Tags=	Case=Nom;Gender=Neut
+	Output Success=['четыре', 'ведра']
+
+Input=	['четыре', 'ведро'];	Tags=	Case=Gen;Gender=Neut
+	Output Success=['четырех', 'ведер']
+
+Input=	['четыре', 'ведро'];	Tags=	Case=Acc;Gender=Neut
+	Output Success=['четыре', 'ведра']
+
+Input=	['четыре', 'ведро'];	Tags=	Case=Dat;Gender=Neut
+	Output Success=['четырем', 'ведрам']
+
+Input=	['четыре', 'ведро'];	Tags=	Case=Ins;Gender=Neut
+	Output Success=['четырьмя', 'ведрами']
+
+Input=	['четыре', 'ведро'];	Tags=	Case=Loc;Gender=Neut
+	Output Success=['четырех', 'ведрах']
+
+Input=	['один', 'твердый', 'камень'];	Tags=	Case=Nom;Gender=Masc
+	Output Success=['один', 'твердый', 'камень']
+
+Input=	['один', 'твердый', 'камень'];	Tags=	Case=Gen;Gender=Masc
+	Output Success=['одного', 'твердого', 'камня']
+
+Input=	['один', 'твердый', 'камень'];	Tags=	Case=Acc;Gender=Masc
+	Output Success=['один', 'твердый', 'камень']
+
+Input=	['один', 'твердый', 'камень'];	Tags=	Case=Dat;Gender=Masc
+	Output Success=['одному', 'твердому', 'камню']
+
+Input=	['один', 'твердый', 'камень'];	Tags=	Case=Ins;Gender=Masc
+	Output Success=['одним', 'твердым', 'камнем']
+
+Input=	['один', 'твердый', 'камень'];	Tags=	Case=Loc;Gender=Masc
+	Output Success=['одном', 'твердом', 'камне']
+
+Input=	['один', 'спокойный', 'старик'];	Tags=	Case=Nom;Gender=Masc
+	Output Success=['один', 'спокойный', 'старик']
+
+Input=	['один', 'спокойный', 'старик'];	Tags=	Case=Gen;Gender=Masc
+	Output Success=['одного', 'спокойного', 'старика']
+
+Input=	['один', 'спокойный', 'старик'];	Tags=	Case=Acc;Gender=Masc
+	Output Success=['одного', 'спокойного', 'старика']
+
+Input=	['один', 'спокойный', 'старик'];	Tags=	Case=Dat;Gender=Masc
+	Output Success=['одному', 'спокойному', 'старику']
+
+Input=	['один', 'спокойный', 'старик'];	Tags=	Case=Ins;Gender=Masc
+	Output Success=['одним', 'спокойным', 'стариком']
+
+Input=	['один', 'спокойный', 'старик'];	Tags=	Case=Loc;Gender=Masc
+	Output Success=['одном', 'спокойном', 'старике']
+
+Input=	['один', 'чистый', 'страница'];	Tags=	Case=Nom;Gender=Fem
+	Output Success=['одна', 'чистая', 'страница']
+
+Input=	['один', 'чистый', 'страница'];	Tags=	Case=Gen;Gender=Fem
+	Output Success=['одной', 'чистой', 'страницы']
+
+Input=	['один', 'чистый', 'страница'];	Tags=	Case=Acc;Gender=Fem
+	Output Success=['одну', 'чистую', 'страницу']
+
+Input=	['один', 'чистый', 'страница'];	Tags=	Case=Dat;Gender=Fem
+	Output Success=['одной', 'чистой', 'странице']
+
+Input=	['один', 'чистый', 'страница'];	Tags=	Case=Ins;Gender=Fem
+	Output Success=['одной', 'чистой', 'страницей']
+
+Input=	['один', 'чистый', 'страница'];	Tags=	Case=Loc;Gender=Fem
+	Output Success=['одной', 'чистой', 'странице']
+
+Input=	['один', 'редкий', 'птица'];	Tags=	Case=Nom;Gender=Fem
+	Output Success=['одна', 'редкая', 'птица']
+
+Input=	['один', 'редкий', 'птица'];	Tags=	Case=Gen;Gender=Fem
+	Output Success=['одной', 'редкой', 'птицы']
+
+Input=	['один', 'редкий', 'птица'];	Tags=	Case=Acc;Gender=Fem
+	Output Success=['одну', 'редкую', 'птицу']
+
+Input=	['один', 'редкий', 'птица'];	Tags=	Case=Dat;Gender=Fem
+	Output Success=['одной', 'редкой', 'птице']
+
+Input=	['один', 'редкий', 'птица'];	Tags=	Case=Ins;Gender=Fem
+	Output Success=['одной', 'редкой', 'птицей']
+
+Input=	['один', 'редкий', 'птица'];	Tags=	Case=Loc;Gender=Fem
+	Output Success=['одной', 'редкой', 'птице']
+
+Input=	['один', 'золотой', 'кольцо'];	Tags=	Case=Nom;Gender=Neut
+	Output Success=['одно', 'золотое', 'кольцо']
+
+Input=	['один', 'золотой', 'кольцо'];	Tags=	Case=Gen;Gender=Neut
+	Output Success=['одного', 'золотого', 'кольца']
+
+Input=	['один', 'золотой', 'кольцо'];	Tags=	Case=Acc;Gender=Neut
+	Output Success=['одно', 'золотое', 'кольцо']
+
+Input=	['один', 'золотой', 'кольцо'];	Tags=	Case=Dat;Gender=Neut
+	Output Success=['одному', 'золотому', 'кольцу']
+
+Input=	['один', 'золотой', 'кольцо'];	Tags=	Case=Ins;Gender=Neut
+	Output Success=['одним', 'золотым', 'кольцом']
+
+Input=	['один', 'золотой', 'кольцо'];	Tags=	Case=Loc;Gender=Neut
+	Output Success=['одном', 'золотом', 'кольце']
+
+Input=	['один', 'дикий', 'чудище'];	Tags=	Case=Nom;Gender=Neut
+	Output Success=['одно', 'дикое', 'чудище']
+
+Input=	['один', 'дикий', 'чудище'];	Tags=	Case=Gen;Gender=Neut
+	Output Success=['одного', 'дикого', 'чудища']
+
+Input=	['один', 'дикий', 'чудище'];	Tags=	Case=Acc;Gender=Neut
+	Output Success=['одно', 'дикое', 'чудище']
+
+Input=	['один', 'дикий', 'чудище'];	Tags=	Case=Dat;Gender=Neut
+	Output Success=['одному', 'дикому', 'чудищу']
+
+Input=	['один', 'дикий', 'чудище'];	Tags=	Case=Ins;Gender=Neut
+	Output Success=['одним', 'диким', 'чудищем']
+
+Input=	['один', 'дикий', 'чудище'];	Tags=	Case=Loc;Gender=Neut
+	Output Success=['одном', 'диком', 'чудище']
+
+Input=	['два', 'полный', 'кувшин'];	Tags=	Case=Nom;Gender=Masc
+	Output Success=['два', 'полных', 'кувшина']
+
+Input=	['два', 'полный', 'кувшин'];	Tags=	Case=Gen;Gender=Masc
+	Output Success=['двух', 'полных', 'кувшинов']
+
+Input=	['два', 'полный', 'кувшин'];	Tags=	Case=Acc;Gender=Masc
+	Output Success=['два', 'полных', 'кувшина']
+
+Input=	['два', 'полный', 'кувшин'];	Tags=	Case=Dat;Gender=Masc
+	Output Success=['двум', 'полным', 'кувшинам']
+
+Input=	['два', 'полный', 'кувшин'];	Tags=	Case=Ins;Gender=Masc
+	Output Success=['двумя', 'полными', 'кувшинами']
+
+Input=	['два', 'полный', 'кувшин'];	Tags=	Case=Loc;Gender=Masc
+	Output Success=['двух', 'полных', 'кувшинах']
+
+Input=	['два', 'знаменитый', 'профессор'];	Tags=	Case=Nom;Gender=Masc
+	Output Success=['два', 'знаменитых', 'профессора']
+
+Input=	['два', 'знаменитый', 'профессор'];	Tags=	Case=Gen;Gender=Masc
+	Output Success=['двух', 'знаменитых', 'профессоров']
+
+Input=	['два', 'знаменитый', 'профессор'];	Tags=	Case=Acc;Gender=Masc
+	Output Success=['двух', 'знаменитых', 'профессоров']
+
+Input=	['два', 'знаменитый', 'профессор'];	Tags=	Case=Dat;Gender=Masc
+	Output Success=['двум', 'знаменитым', 'профессорам']
+
+Input=	['два', 'знаменитый', 'профессор'];	Tags=	Case=Ins;Gender=Masc
+	Output Success=['двумя', 'знаменитыми', 'профессорами']
+
+Input=	['два', 'знаменитый', 'профессор'];	Tags=	Case=Loc;Gender=Masc
+	Output Success=['двух', 'знаменитых', 'профессорах']
+
+Input=	['два', 'красный', 'шляпа'];	Tags=	Case=Nom;Gender=Fem
+	Output Success=['две', 'красных', 'шляпы']
+
+Input=	['два', 'красный', 'шляпа'];	Tags=	Case=Gen;Gender=Fem
+	Output Success=['двух', 'красных', 'шляп']
+
+Input=	['два', 'красный', 'шляпа'];	Tags=	Case=Acc;Gender=Fem
+	Output Success=['две', 'красных', 'шляпы']
+
+Input=	['два', 'красный', 'шляпа'];	Tags=	Case=Dat;Gender=Fem
+	Output Success=['двум', 'красным', 'шляпам']
+
+Input=	['два', 'красный', 'шляпа'];	Tags=	Case=Ins;Gender=Fem
+	Output Success=['двумя', 'красными', 'шляпами']
+
+Input=	['два', 'красный', 'шляпа'];	Tags=	Case=Loc;Gender=Fem
+	Output Success=['двух', 'красных', 'шляпах']
+
+Input=	['два', 'злой', 'продавщица'];	Tags=	Case=Nom;Gender=Fem
+	Output Success=['две', 'злых', 'продавщицы']
+
+Input=	['два', 'злой', 'продавщица'];	Tags=	Case=Gen;Gender=Fem
+	Output Success=['двух', 'злых', 'продавщиц']
+
+Input=	['два', 'злой', 'продавщица'];	Tags=	Case=Acc;Gender=Fem
+	Output Success=['двух', 'злых', 'продавщиц']
+
+Input=	['два', 'злой', 'продавщица'];	Tags=	Case=Dat;Gender=Fem
+	Output Success=['двум', 'злым', 'продавщицам']
+
+Input=	['два', 'злой', 'продавщица'];	Tags=	Case=Ins;Gender=Fem
+	Output Success=['двумя', 'злыми', 'продавщицами']
+
+Input=	['два', 'злой', 'продавщица'];	Tags=	Case=Loc;Gender=Fem
+	Output Success=['двух', 'злых', 'продавщицах']
+
+Input=	['два', 'лестный', 'письмо'];	Tags=	Case=Nom;Gender=Neut
+	Output Success=['два', 'лестных', 'письма']
+
+Input=	['два', 'лестный', 'письмо'];	Tags=	Case=Gen;Gender=Neut
+	Output Success=['двух', 'лестных', 'писем']
+
+Input=	['два', 'лестный', 'письмо'];	Tags=	Case=Acc;Gender=Neut
+	Output Success=['два', 'лестных', 'письма']
+
+Input=	['два', 'лестный', 'письмо'];	Tags=	Case=Dat;Gender=Neut
+	Output Success=['двум', 'лестным', 'письмам']
+
+Input=	['два', 'лестный', 'письмо'];	Tags=	Case=Ins;Gender=Neut
+	Output Success=['двумя', 'лестными', 'письмами']
+
+Input=	['два', 'лестный', 'письмо'];	Tags=	Case=Loc;Gender=Neut
+	Output Success=['двух', 'лестных', 'письмах']
+
+Input=	['два', 'милый', 'приведение'];	Tags=	Case=Nom;Gender=Neut
+	Output Success=['два', 'милых', 'приведения']
+
+Input=	['два', 'милый', 'приведение'];	Tags=	Case=Gen;Gender=Neut
+	Output Success=['двух', 'милых', 'приведений']
+
+Input=	['два', 'милый', 'приведение'];	Tags=	Case=Acc;Gender=Neut
+	Output Success=['двух', 'милых', 'приведений']
+
+Input=	['два', 'милый', 'приведение'];	Tags=	Case=Dat;Gender=Neut
+	Output Success=['двум', 'милым', 'приведениям']
+
+Input=	['два', 'милый', 'приведение'];	Tags=	Case=Ins;Gender=Neut
+	Output Success=['двумя', 'милыми', 'приведениями']
+
+Input=	['два', 'милый', 'приведение'];	Tags=	Case=Loc;Gender=Neut
+	Output Success=['двух', 'милых', 'приведениях']
+
+Input=	['шесть', 'футбольный', 'мяч'];	Tags=	Case=Nom;Gender=Masc
+	Output Success=['шесть', 'футбольных', 'мячей']
+
+Input=	['шесть', 'футбольный', 'мяч'];	Tags=	Case=Gen;Gender=Masc
+	Output Success=['шести', 'футбольных', 'мячей']
+
+Input=	['шесть', 'футбольный', 'мяч'];	Tags=	Case=Acc;Gender=Masc
+	Output Success=['шесть', 'футбольных', 'мячей']
+
+Input=	['шесть', 'футбольный', 'мяч'];	Tags=	Case=Dat;Gender=Masc
+	Output Success=['шести', 'футбольным', 'мячам']
+
+Input=	['шесть', 'футбольный', 'мяч'];	Tags=	Case=Ins;Gender=Masc
+	Output Success=['шестью', 'футбольными', 'мячами']
+
+Input=	['шесть', 'футбольный', 'мяч'];	Tags=	Case=Loc;Gender=Masc
+	Output Success=['шести', 'футбольных', 'мячах']
+
+Input=	['шесть', 'глупый', 'школьник'];	Tags=	Case=Nom;Gender=Masc
+	Output Success=['шесть', 'глупых', 'школьников']
+
+Input=	['шесть', 'глупый', 'школьник'];	Tags=	Case=Gen;Gender=Masc
+	Output Success=['шести', 'глупых', 'школьников']
+
+Input=	['шесть', 'глупый', 'школьник'];	Tags=	Case=Acc;Gender=Masc
+	Output Success=['шесть', 'глупых', 'школьников']
+
+Input=	['шесть', 'глупый', 'школьник'];	Tags=	Case=Dat;Gender=Masc
+	Output Success=['шести', 'глупым', 'школьникам']
+
+Input=	['шесть', 'глупый', 'школьник'];	Tags=	Case=Ins;Gender=Masc
+	Output Success=['шестью', 'глупыми', 'школьниками']
+
+Input=	['шесть', 'глупый', 'школьник'];	Tags=	Case=Loc;Gender=Masc
+	Output Success=['шести', 'глупых', 'школьниках']
+
+Input=	['шесть', 'идеальный', 'картина'];	Tags=	Case=Nom;Gender=Fem
+	Output Success=['шесть', 'идеальных', 'картин']
+
+Input=	['шесть', 'идеальный', 'картина'];	Tags=	Case=Gen;Gender=Fem
+	Output Success=['шести', 'идеальных', 'картин']
+
+Input=	['шесть', 'идеальный', 'картина'];	Tags=	Case=Acc;Gender=Fem
+	Output Success=['шесть', 'идеальных', 'картин']
+
+Input=	['шесть', 'идеальный', 'картина'];	Tags=	Case=Dat;Gender=Fem
+	Output Success=['шести', 'идеальным', 'картинам']
+
+Input=	['шесть', 'идеальный', 'картина'];	Tags=	Case=Ins;Gender=Fem
+	Output Success=['шестью', 'идеальными', 'картинами']
+
+Input=	['шесть', 'идеальный', 'картина'];	Tags=	Case=Loc;Gender=Fem
+	Output Success=['шести', 'идеальных', 'картинах']
+
+Input=	['шесть', 'черный', 'пантера'];	Tags=	Case=Nom;Gender=Fem
+	Output Success=['шесть', 'черных', 'пантер']
+
+Input=	['шесть', 'черный', 'пантера'];	Tags=	Case=Gen;Gender=Fem
+	Output Success=['шести', 'черных', 'пантер']
+
+Input=	['шесть', 'черный', 'пантера'];	Tags=	Case=Acc;Gender=Fem
+	Output Success=['шесть', 'черных', 'пантер']
+
+Input=	['шесть', 'черный', 'пантера'];	Tags=	Case=Dat;Gender=Fem
+	Output Success=['шести', 'черным', 'пантерам']
+
+Input=	['шесть', 'черный', 'пантера'];	Tags=	Case=Ins;Gender=Fem
+	Output Success=['шестью', 'черными', 'пантерами']
+
+Input=	['шесть', 'черный', 'пантера'];	Tags=	Case=Loc;Gender=Fem
+	Output Success=['шести', 'черных', 'пантерах']
+
+Input=	['шесть', 'широкий', 'поле'];	Tags=	Case=Nom;Gender=Neut
+	Output Success=['шесть', 'широких', 'полей']
+
+Input=	['шесть', 'широкий', 'поле'];	Tags=	Case=Gen;Gender=Neut
+	Output Success=['шести', 'широких', 'полей']
+
+Input=	['шесть', 'широкий', 'поле'];	Tags=	Case=Acc;Gender=Neut
+	Output Success=['шесть', 'широких', 'полей']
+
+Input=	['шесть', 'широкий', 'поле'];	Tags=	Case=Dat;Gender=Neut
+	Output Success=['шести', 'широким', 'полям']
+
+Input=	['шесть', 'широкий', 'поле'];	Tags=	Case=Ins;Gender=Neut
+	Output Success=['шестью', 'широкими', 'полями']
+
+Input=	['шесть', 'широкий', 'поле'];	Tags=	Case=Loc;Gender=Neut
+	Output Success=['шести', 'широких', 'полях']
+
+Input=	['шесть', 'странный', 'чудище'];	Tags=	Case=Nom;Gender=Neut
+	Output Success=['шесть', 'странных', 'чудищ']
+
+Input=	['шесть', 'странный', 'чудище'];	Tags=	Case=Gen;Gender=Neut
+	Output Success=['шести', 'странных', 'чудищ']
+
+Input=	['шесть', 'странный', 'чудище'];	Tags=	Case=Acc;Gender=Neut
+	Output Success=['шесть', 'странных', 'чудищ']
+
+Input=	['шесть', 'странный', 'чудище'];	Tags=	Case=Dat;Gender=Neut
+	Output Success=['шести', 'странным', 'чудищам']
+
+Input=	['шесть', 'странный', 'чудище'];	Tags=	Case=Ins;Gender=Neut
+	Output Success=['шестью', 'странными', 'чудищами']
+
+Input=	['шесть', 'странный', 'чудище'];	Tags=	Case=Loc;Gender=Neut
+	Output Success=['шести', 'странных', 'чудищах']
+
+Input=	['одна', 'тысяча', 'семьдесят', 'один'];	Tags=	Case=Nom
+	Expected=['одна', 'тысяча', 'семьдесят', 'один']
+	Output Fail=['to_be_announced', 'тысяч', 'семьдесят', 'один']
+
+Input=	['одна', 'тысяча', 'семьдесят', 'один'];	Tags=	Case=Gen
+	Expected=['одной', 'тысячи', 'семидесяти', 'одного']
+	Output Fail=['to_be_announced', 'тысяч', 'семидесяти', 'одного']
+
+Input=	['одна', 'тысяча', 'семьдесят', 'один'];	Tags=	Case=Acc
+	Expected=['одну', 'тысячу', 'семьдесят', 'один']
+	Output Fail=['to_be_announced', 'тысяч', 'семьдесят', 'один']
+
+Input=	['одна', 'тысяча', 'семьдесят', 'один'];	Tags=	Case=Dat
+	Expected=['одной', 'тысяче', 'семидесяти', 'одному']
+	Output Fail=['to_be_announced', 'тысячам', 'семидесяти', 'одному']
+
+Input=	['одна', 'тысяча', 'семьдесят', 'один'];	Tags=	Case=Ins
+	Expected=['одной', 'тысячей', 'семьюдесятью', 'одним']
+	Output Fail=['to_be_announced', 'тысячами', 'семьюдесятью', 'одним']
+
+Input=	['одна', 'тысяча', 'семьдесят', 'один'];	Tags=	Case=Loc
+	Expected=['одной', 'тысяче', 'семидесяти', 'одном']
+	Output Fail=['to_be_announced', 'тысячах', 'семидесяти', 'одном']
+
+Input=	['один', 'миллион', 'двести', 'шестьдесят', 'восемь', 'тысяч', 'семьсот', 'тридцать', 'один'];	Tags=	Case=Nom;Gender=Masc
+	Output Success=['один', 'миллион', 'двести', 'шестьдесят', 'восемь', 'тысяч', 'семьсот', 'тридцать', 'один']
+
+Input=	['один', 'миллион', 'двести', 'шестьдесят', 'восемь', 'тысяч', 'семьсот', 'тридцать', 'один'];	Tags=	Case=Gen;Gender=Masc
+	Output Success=['одного', 'миллиона', 'двухсот', 'шестидесяти', 'восьми', 'тысяч', 'семисот', 'тридцати', 'одного']
+
+Input=	['один', 'миллион', 'двести', 'шестьдесят', 'восемь', 'тысяч', 'семьсот', 'тридцать', 'один'];	Tags=	Case=Dat;Gender=Masc
+	Output Success=['одному', 'миллиону', 'двумстам', 'шестидесяти', 'восьми', 'тысячам', 'семистам', 'тридцати', 'одному']
+
+Input=	['один', 'миллион', 'двести', 'шестьдесят', 'восемь', 'тысяч', 'семьсот', 'тридцать', 'один'];	Tags=	Case=Acc;Gender=Masc;Animacy=Inan
+	Output Success=['один', 'миллион', 'двести', 'шестьдесят', 'восемь', 'тысяч', 'семьсот', 'тридцать', 'один']
+
+Input=	['один', 'миллион', 'двести', 'шестьдесят', 'восемь', 'тысяч', 'семьсот', 'тридцать', 'один'];	Tags=	Case=Acc;Gender=Masc;Animacy=Anim
+	Output Success=['один', 'миллион', 'двести', 'шестьдесят', 'восемь', 'тысяч', 'семьсот', 'тридцать', 'одного']
+
+Input=	['один', 'миллион', 'двести', 'шестьдесят', 'восемь', 'тысяч', 'семьсот', 'тридцать', 'один'];	Tags=	Case=Ins;Gender=Masc
+	Output Success=['одним', 'миллионом', 'двумястами', 'шестьюдесятью', 'восемью', 'тысячами', 'семьюстами', 'тридцатью', 'одним']
+
+Input=	['один', 'миллион', 'двести', 'шестьдесят', 'восемь', 'тысяч', 'семьсот', 'тридцать', 'один'];	Tags=	Case=Loc;Gender=Masc
+	Output Success=['одном', 'миллионе', 'двухстах', 'шестидесяти', 'восьми', 'тысячах', 'семистах', 'тридцати', 'одном']
+
+Input=	['один', 'миллион', 'двести', 'шестьдесят', 'восемь', 'тысяч', 'семьсот', 'тридцать', 'один'];	Tags=	Case=Nom;Gender=Fem
+	Output Success=['один', 'миллион', 'двести', 'шестьдесят', 'восемь', 'тысяч', 'семьсот', 'тридцать', 'одна']
+
+Input=	['один', 'миллион', 'двести', 'шестьдесят', 'восемь', 'тысяч', 'семьсот', 'тридцать', 'один'];	Tags=	Case=Gen;Gender=Fem
+	Output Success=['одного', 'миллиона', 'двухсот', 'шестидесяти', 'восьми', 'тысяч', 'семисот', 'тридцати', 'одной']
+
+Input=	['один', 'миллион', 'двести', 'шестьдесят', 'восемь', 'тысяч', 'семьсот', 'тридцать', 'один'];	Tags=	Case=Dat;Gender=Fem
+	Output Success=['одному', 'миллиону', 'двумстам', 'шестидесяти', 'восьми', 'тысячам', 'семистам', 'тридцати', 'одной']
+
+Input=	['один', 'миллион', 'двести', 'шестьдесят', 'восемь', 'тысяч', 'семьсот', 'тридцать', 'один'];	Tags=	Case=Acc;Gender=Fem
+	Output Success=['один', 'миллион', 'двести', 'шестьдесят', 'восемь', 'тысяч', 'семьсот', 'тридцать', 'одну']
+
+Input=	['один', 'миллион', 'двести', 'шестьдесят', 'восемь', 'тысяч', 'семьсот', 'тридцать', 'один'];	Tags=	Case=Ins;Gender=Fem
+	Output Success=['одним', 'миллионом', 'двумястами', 'шестьюдесятью', 'восемью', 'тысячами', 'семьюстами', 'тридцатью', 'одной']
+
+Input=	['один', 'миллион', 'двести', 'шестьдесят', 'восемь', 'тысяч', 'семьсот', 'тридцать', 'один'];	Tags=	Case=Loc;Gender=Fem
+	Output Success=['одном', 'миллионе', 'двухстах', 'шестидесяти', 'восьми', 'тысячах', 'семистах', 'тридцати', 'одной']
+
+Input=	['один', 'миллион', 'двести', 'шестьдесят', 'восемь', 'тысяч', 'семьсот', 'тридцать', 'один'];	Tags=	Case=Nom;Gender=Neut
+	Output Success=['один', 'миллион', 'двести', 'шестьдесят', 'восемь', 'тысяч', 'семьсот', 'тридцать', 'одно']
+
+Input=	['один', 'миллион', 'двести', 'шестьдесят', 'восемь', 'тысяч', 'семьсот', 'тридцать', 'один'];	Tags=	Case=Gen;Gender=Neut
+	Output Success=['одного', 'миллиона', 'двухсот', 'шестидесяти', 'восьми', 'тысяч', 'семисот', 'тридцати', 'одного']
+
+Input=	['один', 'миллион', 'двести', 'шестьдесят', 'восемь', 'тысяч', 'семьсот', 'тридцать', 'один'];	Tags=	Case=Dat;Gender=Neut
+	Output Success=['одному', 'миллиону', 'двумстам', 'шестидесяти', 'восьми', 'тысячам', 'семистам', 'тридцати', 'одному']
+
+Input=	['один', 'миллион', 'двести', 'шестьдесят', 'восемь', 'тысяч', 'семьсот', 'тридцать', 'один'];	Tags=	Case=Acc;Gender=Neut
+	Output Success=['один', 'миллион', 'двести', 'шестьдесят', 'восемь', 'тысяч', 'семьсот', 'тридцать', 'одно']
+
+Input=	['один', 'миллион', 'двести', 'шестьдесят', 'восемь', 'тысяч', 'семьсот', 'тридцать', 'один'];	Tags=	Case=Ins;Gender=Neut
+	Output Success=['одним', 'миллионом', 'двумястами', 'шестьюдесятью', 'восемью', 'тысячами', 'семьюстами', 'тридцатью', 'одним']
+
+Input=	['один', 'миллион', 'двести', 'шестьдесят', 'восемь', 'тысяч', 'семьсот', 'тридцать', 'один'];	Tags=	Case=Loc;Gender=Neut
+	Output Success=['одном', 'миллионе', 'двухстах', 'шестидесяти', 'восьми', 'тысячах', 'семистах', 'тридцати', 'одном']
+
+Input=	['два', 'миллиона', 'триста', 'тридцать', 'девять', 'тысяч', 'четыреста', 'пять'];	Tags=	Case=Nom
+	Output Success=['два', 'миллиона', 'триста', 'тридцать', 'девять', 'тысяч', 'четыреста', 'пять']
+
+Input=	['два', 'миллиона', 'триста', 'тридцать', 'девять', 'тысяча', 'четыреста', 'пять'];	Tags=	Case=Gen
+	Output Success=['двух', 'миллионов', 'трехсот', 'тридцати', 'девяти', 'тысяч', 'четырехсот', 'пяти']
+
+Input=	['два', 'миллиона', 'триста', 'тридцать', 'девять', 'тысяч', 'четыреста', 'пять'];	Tags=	Case=Dat
+	Output Success=['двум', 'миллионам', 'тремстам', 'тридцати', 'девяти', 'тысячам', 'четыремстам', 'пяти']
+
+Input=	['два', 'миллиона', 'триста', 'тридцать', 'девять', 'тысяч', 'четыреста', 'пять'];	Tags=	Case=Acc
+	Output Success=['два', 'миллиона', 'триста', 'тридцать', 'девять', 'тысяч', 'четыреста', 'пять']
+
+Input=	['два', 'миллиона', 'триста', 'тридцать', 'девять', 'тысяч', 'четыреста', 'пять'];	Tags=	Case=Ins
+	Output Success=['двумя', 'миллионами', 'тремястами', 'тридцатью', 'девятью', 'тысячами', 'четырьмястами', 'пятью']
+
+Input=	['два', 'миллиона', 'триста', 'тридцать', 'девять', 'тысяч', 'четыреста', 'пять'];	Tags=	Case=Loc
+	Output Success=['двух', 'миллионах', 'трехстах', 'тридцати', 'девяти', 'тысячах', 'четырехстах', 'пяти']
+
+Input=	['пять', 'миллионов', 'шестьсот', 'двенадцать', 'тысяч', 'восемьсот', 'семьдесят', 'три'];	Tags=	Case=Nom
+	Output Success=['пять', 'миллионов', 'шестьсот', 'двенадцать', 'тысяч', 'восемьсот', 'семьдесят', 'три']
+
+Input=	['пять', 'миллионов', 'шестьсот', 'двенадцать', 'тысяч', 'восемьсот', 'семьдесят', 'три'];	Tags=	Case=Gen
+	Output Success=['пяти', 'миллионов', 'шестисот', 'двенадцати', 'тысяч', 'восьмисот', 'семидесяти', 'трех']
+
+Input=	['пять', 'миллионов', 'шестьсот', 'двенадцать', 'тысяч', 'восемьсот', 'семьдесят', 'три'];	Tags=	Case=Dat
+	Output Success=['пяти', 'миллионам', 'шестистам', 'двенадцати', 'тысячам', 'восьмистам', 'семидесяти', 'трем']
+
+Input=	['пять', 'миллионов', 'шестьсот', 'двенадцать', 'тысяч', 'восемьсот', 'семьдесят', 'три'];	Tags=	Case=Acc
+	Output Success=['пять', 'миллионов', 'шестьсот', 'двенадцать', 'тысяч', 'восемьсот', 'семьдесят', 'три']
+
+Input=	['пять', 'миллионов', 'шестьсот', 'двенадцать', 'тысяч', 'восемьсот', 'семьдесят', 'три'];	Tags=	Case=Ins
+	Output Success=['пятью', 'миллионами', 'шестьюстами', 'двенадцатью', 'тысячами', 'восемьюстами', 'семьюдесятью', 'тремя']
+
+Input=	['пять', 'миллионов', 'шестьсот', 'двенадцать', 'тысяч', 'восемьсот', 'семьдесят', 'три'];	Tags=	Case=Loc
+	Output Success=['пяти', 'миллионах', 'шестистах', 'двенадцати', 'тысячах', 'восьмистах', 'семидесяти', 'трех']
+
+Input=	['семь', 'миллионов', 'шестьдесят', 'две', 'тысячи', 'девятьсот', 'сорок'];	Tags=	Case=Nom
+	Output Success=['семь', 'миллионов', 'шестьдесят', 'две', 'тысячи', 'девятьсот', 'сорок']
+
+Input=	['семь', 'миллионов', 'шестьдесят', 'две', 'тысячи', 'девятьсот', 'сорок'];	Tags=	Case=Gen
+	Output Success=['семи', 'миллионов', 'шестидесяти', 'двух', 'тысяч', 'девятисот', 'сорока']
+
+Input=	['семь', 'миллионов', 'шестьдесят', 'две', 'тысячи', 'девятьсот', 'сорок'];	Tags=	Case=Dat
+	Output Success=['семи', 'миллионам', 'шестидесяти', 'двум', 'тысячам', 'девятистам', 'сорока']
+
+Input=	['семь', 'миллионов', 'шестьдесят', 'две', 'тысячи', 'девятьсот', 'сорок'];	Tags=	Case=Acc
+	Output Success=['семь', 'миллионов', 'шестьдесят', 'две', 'тысячи', 'девятьсот', 'сорок']
+
+Input=	['семь', 'миллионов', 'шестьдесят', 'две', 'тысячи', 'девятьсот', 'сорок'];	Tags=	Case=Ins
+	Output Success=['семью', 'миллионами', 'шестьюдесятью', 'двумя', 'тысячами', 'девятьюстами', 'сорока']
+
+Input=	['семь', 'миллионов', 'шестьдесят', 'две', 'тысячи', 'девятьсот', 'сорок'];	Tags=	Case=Loc
+	Output Success=['семи', 'миллионах', 'шестидесяти', 'двух', 'тысячах', 'девятистах', 'сорока']
+
+Input=	['десять', 'миллионов', 'пятьсот', 'шестьдесят', 'четыре', 'тысячи', 'два'];	Tags=	Case=Nom;Gender=Masc
+	Output Success=['десять', 'миллионов', 'пятьсот', 'шестьдесят', 'четыре', 'тысячи', 'два']
+
+Input=	['десять', 'миллионов', 'пятьсот', 'шестьдесят', 'четыре', 'тысячи', 'два'];	Tags=	Case=Gen;Gender=Masc
+	Output Success=['десяти', 'миллионов', 'пятисот', 'шестидесяти', 'четырех', 'тысяч', 'двух']
+
+Input=	['десять', 'миллионов', 'пятьсот', 'шестьдесят', 'четыре', 'тысячи', 'два'];	Tags=	Case=Dat;Gender=Masc
+	Output Success=['десяти', 'миллионам', 'пятистам', 'шестидесяти', 'четырем', 'тысячам', 'двум']
+
+Input=	['десять', 'миллионов', 'пятьсот', 'шестьдесят', 'четыре', 'тысячи', 'два'];	Tags=	Case=Acc;Gender=Masc
+	Output Success=['десять', 'миллионов', 'пятьсот', 'шестьдесят', 'четыре', 'тысячи', 'два']
+
+Input=	['десять', 'миллионов', 'пятьсот', 'шестьдесят', 'четыре', 'тысячи', 'два'];	Tags=	Case=Ins;Gender=Masc
+	Output Success=['десятью', 'миллионами', 'пятьюстами', 'шестьюдесятью', 'четырьмя', 'тысячами', 'двумя']
+
+Input=	['десять', 'миллионов', 'пятьсот', 'шестьдесят', 'четыре', 'тысячи', 'два'];	Tags=	Case=Loc;Gender=Masc
+	Output Success=['десяти', 'миллионах', 'пятистах', 'шестидесяти', 'четырех', 'тысячах', 'двух']
+
+Input=	['десять', 'миллионов', 'пятьсот', 'шестьдесят', 'четыре', 'тысячи', 'два'];	Tags=	Case=Nom;Gender=Fem
+	Output Success=['десять', 'миллионов', 'пятьсот', 'шестьдесят', 'четыре', 'тысячи', 'две']
+
+Input=	['десять', 'миллионов', 'пятьсот', 'шестьдесят', 'четыре', 'тысячи', 'два'];	Tags=	Case=Acc;Gender=Fem
+	Output Success=['десять', 'миллионов', 'пятьсот', 'шестьдесят', 'четыре', 'тысячи', 'две']
+
+Input=	['сто', 'двадцать', 'три', 'миллиона', 'четыреста', 'пятьдесят', 'шесть', 'тысяч', 'семьсот', 'восемьдесят', 'девять'];	Tags=	Case=Nom
+	Output Success=['сто', 'двадцать', 'три', 'миллиона', 'четыреста', 'пятьдесят', 'шесть', 'тысяч', 'семьсот', 'восемьдесят', 'девять']
+
+Input=	['один', 'триллион', 'двадцать', 'тысяч', 'пятьдесят', 'шесть'];	Tags=	Case=Nom
+	Output Success=['один', 'триллион', 'двадцать', 'тысяч', 'пятьдесят', 'шесть']
+
+Input=	['один', 'триллион', 'двадцать', 'тысяч', 'пятьдесят', 'шесть'];	Tags=	Case=Gen
+	Output Success=['одного', 'триллиона', 'двадцати', 'тысяч', 'пятидесяти', 'шести']
+
+Input=	['один', 'триллион', 'двадцать', 'тысяч', 'пятьдесят', 'шесть'];	Tags=	Case=Dat
+	Output Success=['одному', 'триллиону', 'двадцати', 'тысячам', 'пятидесяти', 'шести']
+
+Input=	['один', 'триллион', 'двадцать', 'тысяч', 'пятьдесят', 'шесть'];	Tags=	Case=Acc
+	Output Success=['один', 'триллион', 'двадцать', 'тысяч', 'пятьдесят', 'шесть']
+
+Input=	['один', 'триллион', 'двадцать', 'тысяч', 'пятьдесят', 'шесть'];	Tags=	Case=Ins
+	Output Success=['одним', 'триллионом', 'двадцатью', 'тысячами', 'пятьюдесятью', 'шестью']
+
+Input=	['один', 'триллион', 'двадцать', 'тысяч', 'пятьдесят', 'шесть'];	Tags=	Case=Loc
+	Output Success=['одном', 'триллионе', 'двадцати', 'тысячах', 'пятидесяти', 'шести']
+
+Input=	['пятьдесят', 'септиллионов', 'шесть', 'тысяч', 'двадцать', 'восемь'];	Tags=	Case=Nom
+	Output Success=['пятьдесят', 'септиллионов', 'шесть', 'тысяч', 'двадцать', 'восемь']
+
+Input=	['пятьдесят', 'септиллионов', 'шесть', 'тысяч', 'двадцать', 'восемь'];	Tags=	Case=Gen
+	Output Success=['пятидесяти', 'септиллионов', 'шести', 'тысяч', 'двадцати', 'восьми']
+
+Input=	['пятьдесят', 'септиллионов', 'шесть', 'тысяч', 'двадцать', 'восемь'];	Tags=	Case=Dat
+	Output Success=['пятидесяти', 'септиллионам', 'шести', 'тысячам', 'двадцати', 'восьми']
+
+Input=	['пятьдесят', 'септиллионов', 'шесть', 'тысяч', 'двадцать', 'восемь'];	Tags=	Case=Acc
+	Output Success=['пятьдесят', 'септиллионов', 'шесть', 'тысяч', 'двадцать', 'восемь']
+
+Input=	['пятьдесят', 'септиллионов', 'шесть', 'тысяч', 'двадцать', 'восемь'];	Tags=	Case=Ins
+	Output Success=['пятьюдесятью', 'септиллионами', 'шестью', 'тысячами', 'двадцатью', 'восемью']
+
+Input=	['пятьдесят', 'септиллионов', 'шесть', 'тысяч', 'двадцать', 'восемь'];	Tags=	Case=Loc
+	Output Success=['пятидесяти', 'септиллионах', 'шести', 'тысячах', 'двадцати', 'восьми']
+
+Input=	['два', 'квадриллиона', 'семь', 'тысяч', 'восемьдесят', 'семь'];	Tags=	Case=Nom
+	Output Success=['два', 'квадриллиона', 'семь', 'тысяч', 'восемьдесят', 'семь']
+
+Input=	['два', 'квадриллиона', 'семь', 'тысяч', 'восемьдесят', 'семь'];	Tags=	Case=Gen
+	Output Success=['двух', 'квадриллионов', 'семи', 'тысяч', 'восьмидесяти', 'семи']
+
+Input=	['два', 'квадриллиона', 'семь', 'тысяч', 'восемьдесят', 'семь'];	Tags=	Case=Dat
+	Output Success=['двум', 'квадриллионам', 'семи', 'тысячам', 'восьмидесяти', 'семи']
+
+Input=	['два', 'квадриллиона', 'семь', 'тысяч', 'восемьдесят', 'семь'];	Tags=	Case=Acc
+	Output Success=['два', 'квадриллиона', 'семь', 'тысяч', 'восемьдесят', 'семь']
+
+Input=	['два', 'квадриллиона', 'семь', 'тысяч', 'восемьдесят', 'семь'];	Tags=	Case=Ins
+	Output Success=['двумя', 'квадриллионами', 'семью', 'тысячами', 'восемьюдесятью', 'семью']
+
+Input=	['два', 'квадриллиона', 'семь', 'тысяч', 'восемьдесят', 'семь'];	Tags=	Case=Loc
+	Output Success=['двух', 'квадриллионах', 'семи', 'тысячах', 'восьмидесяти', 'семи']
+
+Input=	['четыре', 'миллиарда', 'три', 'миллиона', 'шестьдесят', 'девять'];	Tags=	Case=Nom
+	Output Success=['четыре', 'миллиарда', 'три', 'миллиона', 'шестьдесят', 'девять']
+
+Input=	['четыре', 'миллиарда', 'три', 'миллиона', 'шестьдесят', 'девять'];	Tags=	Case=Gen
+	Output Success=['четырех', 'миллиардов', 'трех', 'миллионов', 'шестидесяти', 'девяти']
+
+Input=	['четыре', 'миллиарда', 'три', 'миллиона', 'шестьдесят', 'девять'];	Tags=	Case=Dat
+	Output Success=['четырем', 'миллиардам', 'трем', 'миллионам', 'шестидесяти', 'девяти']
+
+Input=	['четыре', 'миллиарда', 'три', 'миллиона', 'шестьдесят', 'девять'];	Tags=	Case=Acc
+	Output Success=['четыре', 'миллиарда', 'три', 'миллиона', 'шестьдесят', 'девять']
+
+Input=	['четыре', 'миллиарда', 'три', 'миллиона', 'шестьдесят', 'девять'];	Tags=	Case=Ins
+	Output Success=['четырьмя', 'миллиардами', 'тремя', 'миллионами', 'шестьюдесятью', 'девятью']
+
+Input=	['четыре', 'миллиарда', 'три', 'миллиона', 'шестьдесят', 'девять'];	Tags=	Case=Loc
+	Output Success=['четырех', 'миллиардах', 'трех', 'миллионах', 'шестидесяти', 'девяти']
+
+Input=	['пятнадцать', 'миллиардов', 'одиннадцать', 'миллионов', 'девяносто', 'четыре'];	Tags=	Case=Nom
+	Output Success=['пятнадцать', 'миллиардов', 'одиннадцать', 'миллионов', 'девяносто', 'четыре']
+
+Input=	['пятнадцать', 'миллиардов', 'одиннадцать', 'миллионов', 'девяносто', 'четыре'];	Tags=	Case=Gen
+	Output Success=['пятнадцати', 'миллиардов', 'одиннадцати', 'миллионов', 'девяноста', 'четырех']
+
+Input=	['пятнадцать', 'миллиардов', 'одиннадцать', 'миллионов', 'девяносто', 'четыре'];	Tags=	Case=Dat
+	Output Success=['пятнадцати', 'миллиардам', 'одиннадцати', 'миллионам', 'девяноста', 'четырем']
+
+Input=	['пятнадцать', 'миллиардов', 'одиннадцать', 'миллионов', 'девяносто', 'четыре'];	Tags=	Case=Acc
+	Output Success=['пятнадцать', 'миллиардов', 'одиннадцать', 'миллионов', 'девяносто', 'четыре']
+
+Input=	['пятнадцать', 'миллиардов', 'одиннадцать', 'миллионов', 'девяносто', 'четыре'];	Tags=	Case=Ins
+	Output Success=['пятнадцатью', 'миллиардами', 'одиннадцатью', 'миллионами', 'девяноста', 'четырьмя']
+
+Input=	['пятнадцать', 'миллиардов', 'одиннадцать', 'миллионов', 'девяносто', 'четыре'];	Tags=	Case=Loc
+	Output Success=['пятнадцати', 'миллиардах', 'одиннадцати', 'миллионах', 'девяноста', 'четырех']
+
+Input=	['сто', 'миллиардов', 'девятнадцать', 'тысяч', 'сто', 'шестнадцать'];	Tags=	Case=Nom
+	Output Success=['сто', 'миллиардов', 'девятнадцать', 'тысяч', 'сто', 'шестнадцать']
+
+Input=	['сто', 'миллиардов', 'девятнадцать', 'тысяч', 'сто', 'шестнадцать'];	Tags=	Case=Gen
+	Output Success=['ста', 'миллиардов', 'девятнадцати', 'тысяч', 'ста', 'шестнадцати']
+
+Input=	['сто', 'миллиардов', 'девятнадцать', 'тысяч', 'сто', 'шестнадцать'];	Tags=	Case=Dat
+	Output Success=['ста', 'миллиардам', 'девятнадцати', 'тысячам', 'ста', 'шестнадцати']
+
+Input=	['сто', 'миллиардов', 'девятнадцать', 'тысяч', 'сто', 'шестнадцать'];	Tags=	Case=Acc
+	Output Success=['сто', 'миллиардов', 'девятнадцать', 'тысяч', 'сто', 'шестнадцать']
+
+Input=	['сто', 'миллиардов', 'девятнадцать', 'тысяч', 'сто', 'шестнадцать'];	Tags=	Case=Ins
+	Output Success=['ста', 'миллиардами', 'девятнадцатью', 'тысячами', 'ста', 'шестнадцатью']
+
+Input=	['сто', 'миллиардов', 'девятнадцать', 'тысяч', 'сто', 'шестнадцать'];	Tags=	Case=Loc
+	Output Success=['ста', 'миллиардах', 'девятнадцати', 'тысячах', 'ста', 'шестнадцати']
+
+Input=	['двенадцать', 'тысяч', 'десять'];	Tags=	Case=Nom
+	Output Success=['двенадцать', 'тысяч', 'десять']
+
+Input=	['двенадцать', 'тысяч', 'десять'];	Tags=	Case=Gen
+	Output Success=['двенадцати', 'тысяч', 'десяти']
+
+Input=	['двенадцать', 'тысяч', 'десять'];	Tags=	Case=Dat
+	Output Success=['двенадцати', 'тысячам', 'десяти']
+
+Input=	['двенадцать', 'тысяч', 'десять'];	Tags=	Case=Acc
+	Output Success=['двенадцать', 'тысяч', 'десять']
+
+Input=	['двенадцать', 'тысяч', 'десять'];	Tags=	Case=Ins
+	Output Success=['двенадцатью', 'тысячами', 'десятью']
+
+Input=	['двенадцать', 'тысяч', 'десять'];	Tags=	Case=Loc
+	Output Success=['двенадцати', 'тысячах', 'десяти']
+
+Input=	['две', 'целых', 'одна', 'пятая'];	Tags=	Case=Nom
+	Output Success=['две', 'целых', 'одна', 'пятая']
+
+Input=	['две', 'целых', 'одна', 'пятая'];	Tags=	Case=Gen
+	Output Success=['двух', 'целых', 'одной', 'пятой']
+
+Input=	['две', 'целых', 'одна', 'пятая'];	Tags=	Case=Dat
+	Output Success=['двум', 'целым', 'одной', 'пятой']
+
+Input=	['две', 'целых', 'одна', 'пятая'];	Tags=	Case=Acc
+	Output Success=['две', 'целых', 'одну', 'пятую']
+
+Input=	['две', 'целых', 'одна', 'пятая'];	Tags=	Case=Ins
+	Output Success=['двумя', 'целыми', 'одной', 'пятой']
+
+Input=	['две', 'целых', 'одна', 'пятая'];	Tags=	Case=Loc
+	Output Success=['двух', 'целых', 'одной', 'пятой']
+
+Input=	['двенадцать', 'целых', 'две', 'десятых'];	Tags=	Case=Nom
+	Output Success=['двенадцать', 'целых', 'две', 'десятых']
+
+Input=	['двенадцать', 'целых', 'две', 'десятых'];	Tags=	Case=Gen
+	Output Success=['двенадцати', 'целых', 'двух', 'десятых']
+
+Input=	['двенадцать', 'целых', 'две', 'десятых'];	Tags=	Case=Dat
+	Output Success=['двенадцати', 'целым', 'двум', 'десятым']
+
+Input=	['двенадцать', 'целых', 'две', 'десятых'];	Tags=	Case=Acc
+	Output Success=['двенадцать', 'целых', 'две', 'десятых']
+
+Input=	['двенадцать', 'целых', 'две', 'десятых'];	Tags=	Case=Ins
+	Output Success=['двенадцатью', 'целыми', 'двумя', 'десятыми']
+
+Input=	['двенадцать', 'целых', 'две', 'десятых'];	Tags=	Case=Loc
+	Output Success=['двенадцати', 'целых', 'двух', 'десятых']
+
+Input=	['одна', 'целая', 'три', 'сотых'];	Tags=	Case=Nom
+	Output Success=['одна', 'целая', 'три', 'сотых']
+
+Input=	['одна', 'целая', 'три', 'сотых'];	Tags=	Case=Gen
+	Output Success=['одной', 'целой', 'трех', 'сотых']
+
+Input=	['одна', 'целая', 'три', 'сотых'];	Tags=	Case=Dat
+	Output Success=['одной', 'целой', 'трем', 'сотым']
+
+Input=	['одна', 'целая', 'три', 'сотых'];	Tags=	Case=Acc
+	Output Success=['одну', 'целую', 'три', 'сотых']
+
+Input=	['одна', 'целая', 'три', 'сотых'];	Tags=	Case=Ins
+	Output Success=['одной', 'целой', 'тремя', 'сотыми']
+
+Input=	['одна', 'целая', 'три', 'сотых'];	Tags=	Case=Loc
+	Output Success=['одной', 'целой', 'трех', 'сотых']
+
+Input=	['четыре', 'двести', 'тридцать', 'первых'];	Tags=	Case=Nom
+	Output Success=['четыре', 'двести', 'тридцать', 'первых']
+
+Input=	['четыре', 'двести', 'тридцать', 'первых'];	Tags=	Case=Gen
+	Output Success=['четырех', 'двести', 'тридцать', 'первых']
+
+Input=	['четыре', 'двести', 'тридцать', 'первых'];	Tags=	Case=Dat
+	Output Success=['четырем', 'двести', 'тридцать', 'первым']
+
+Input=	['четыре', 'двести', 'тридцать', 'первых'];	Tags=	Case=Acc
+	Output Success=['четыре', 'двести', 'тридцать', 'первых']
+
+Input=	['четыре', 'двести', 'тридцать', 'первых'];	Tags=	Case=Ins
+	Output Success=['четырьмя', 'двести', 'тридцать', 'первыми']
+
+Input=	['четыре', 'двести', 'тридцать', 'первых'];	Tags=	Case=Loc
+	Output Success=['четырех', 'двести', 'тридцать', 'первых']
+
+Input=	['сто', 'первый'];	Tags=	Case=Nom;Gender=Masc
+	Output Success=['сто', 'первый']
+
+Input=	['сто', 'первый'];	Tags=	Case=Gen;Gender=Masc
+	Output Success=['сто', 'первого']
+
+Input=	['сто', 'первый'];	Tags=	Case=Dat;Gender=Masc
+	Output Success=['сто', 'первому']
+
+Input=	['сто', 'первый'];	Tags=	Case=Acc;Gender=Masc;Animacy=Anim
+	Output Success=['сто', 'первого']
+
+Input=	['сто', 'первый'];	Tags=	Case=Acc;Gender=Masc;Animacy=Inan
+	Output Success=['сто', 'первый']
+
+Input=	['сто', 'первый'];	Tags=	Case=Ins;Gender=Masc
+	Output Success=['сто', 'первым']
+
+Input=	['сто', 'первый'];	Tags=	Case=Loc;Gender=Masc
+	Output Success=['сто', 'первом']
+
+Input=	['сто', 'первый'];	Tags=	Case=Nom;Gender=Fem
+	Output Success=['сто', 'первая']
+
+Input=	['сто', 'первый'];	Tags=	Case=Gen;Gender=Fem
+	Output Success=['сто', 'первой']
+
+Input=	['сто', 'первый'];	Tags=	Case=Dat;Gender=Fem
+	Output Success=['сто', 'первой']
+
+Input=	['сто', 'первый'];	Tags=	Case=Acc;Gender=Fem
+	Output Success=['сто', 'первую']
+
+Input=	['сто', 'первый'];	Tags=	Case=Ins;Gender=Fem
+	Output Success=['сто', 'первой']
+
+Input=	['сто', 'первый'];	Tags=	Case=Loc;Gender=Fem
+	Output Success=['сто', 'первой']
+
+Input=	['сто', 'первый'];	Tags=	Case=Nom;Gender=Neut
+	Output Success=['сто', 'первое']
+
+Input=	['сто', 'первый'];	Tags=	Case=Gen;Gender=Neut
+	Output Success=['сто', 'первого']
+
+Input=	['сто', 'первый'];	Tags=	Case=Dat;Gender=Neut
+	Output Success=['сто', 'первому']
+
+Input=	['сто', 'первый'];	Tags=	Case=Acc;Gender=Neut
+	Output Success=['сто', 'первое']
+
+Input=	['сто', 'первый'];	Tags=	Case=Ins;Gender=Neut
+	Output Success=['сто', 'первым']
+
+Input=	['сто', 'первый'];	Tags=	Case=Loc;Gender=Neut
+	Output Success=['сто', 'первом']
+
+Input=	['две', 'тысячи', 'триста', 'пятьдесят', 'второй'];	Tags=	Case=Nom;Gender=Masc
+	Output Success=['две', 'тысячи', 'триста', 'пятьдесят', 'второй']
+
+Input=	['две', 'тысячи', 'триста', 'пятьдесят', 'второй'];	Tags=	Case=Gen;Gender=Masc
+	Output Success=['две', 'тысячи', 'триста', 'пятьдесят', 'второго']
+
+Input=	['две', 'тысячи', 'триста', 'пятьдесят', 'второй'];	Tags=	Case=Dat;Gender=Masc
+	Output Success=['две', 'тысячи', 'триста', 'пятьдесят', 'второму']
+
+Input=	['две', 'тысячи', 'триста', 'пятьдесят', 'второй'];	Tags=	Case=Acc;Gender=Masc;Animacy=Inan
+	Output Success=['две', 'тысячи', 'триста', 'пятьдесят', 'второй']
+
+Input=	['две', 'тысячи', 'триста', 'пятьдесят', 'второй'];	Tags=	Case=Acc;Gender=Masc;Animacy=Anim
+	Output Success=['две', 'тысячи', 'триста', 'пятьдесят', 'второго']
+
+Input=	['две', 'тысячи', 'триста', 'пятьдесят', 'второй'];	Tags=	Case=Ins;Gender=Masc
+	Output Success=['две', 'тысячи', 'триста', 'пятьдесят', 'вторым']
+
+Input=	['две', 'тысячи', 'триста', 'пятьдесят', 'второй'];	Tags=	Case=Loc;Gender=Masc
+	Output Success=['две', 'тысячи', 'триста', 'пятьдесят', 'втором']
+
+Input=	['две', 'тысячи', 'триста', 'пятьдесят', 'второй'];	Tags=	Case=Nom;Gender=Fem
+	Output Success=['две', 'тысячи', 'триста', 'пятьдесят', 'вторая']
+
+Input=	['две', 'тысячи', 'триста', 'пятьдесят', 'второй'];	Tags=	Case=Gen;Gender=Fem
+	Output Success=['две', 'тысячи', 'триста', 'пятьдесят', 'второй']
+
+Input=	['две', 'тысячи', 'триста', 'пятьдесят', 'второй'];	Tags=	Case=Dat;Gender=Fem
+	Output Success=['две', 'тысячи', 'триста', 'пятьдесят', 'второй']
+
+Input=	['две', 'тысячи', 'триста', 'пятьдесят', 'второй'];	Tags=	Case=Acc;Gender=Fem
+	Output Success=['две', 'тысячи', 'триста', 'пятьдесят', 'вторую']
+
+Input=	['две', 'тысячи', 'триста', 'пятьдесят', 'второй'];	Tags=	Case=Ins;Gender=Fem
+	Output Success=['две', 'тысячи', 'триста', 'пятьдесят', 'второй']
+
+Input=	['две', 'тысячи', 'триста', 'пятьдесят', 'второй'];	Tags=	Case=Loc;Gender=Fem
+	Output Success=['две', 'тысячи', 'триста', 'пятьдесят', 'второй']
+
+Input=	['две', 'тысячи', 'триста', 'пятьдесят', 'второй'];	Tags=	Case=Nom;Gender=Neut
+	Output Success=['две', 'тысячи', 'триста', 'пятьдесят', 'второе']
+
+Input=	['две', 'тысячи', 'триста', 'пятьдесят', 'второй'];	Tags=	Case=Gen;Gender=Neut
+	Output Success=['две', 'тысячи', 'триста', 'пятьдесят', 'второго']
+
+Input=	['две', 'тысячи', 'триста', 'пятьдесят', 'второй'];	Tags=	Case=Dat;Gender=Neut
+	Output Success=['две', 'тысячи', 'триста', 'пятьдесят', 'второму']
+
+Input=	['две', 'тысячи', 'триста', 'пятьдесят', 'второй'];	Tags=	Case=Acc;Gender=Neut
+	Output Success=['две', 'тысячи', 'триста', 'пятьдесят', 'второе']
+
+Input=	['две', 'тысячи', 'триста', 'пятьдесят', 'второй'];	Tags=	Case=Ins;Gender=Neut
+	Output Success=['две', 'тысячи', 'триста', 'пятьдесят', 'вторым']
+
+Input=	['две', 'тысячи', 'триста', 'пятьдесят', 'второй'];	Tags=	Case=Loc;Gender=Neut
+	Output Success=['две', 'тысячи', 'триста', 'пятьдесят', 'втором']
+
+Input=	['тридцать', 'пятый'];	Tags=	Case=Nom;Gender=Masc
+	Output Success=['тридцать', 'пятый']
+
+Input=	['тридцать', 'пятый'];	Tags=	Case=Gen;Gender=Masc
+	Output Success=['тридцать', 'пятого']
+
+Input=	['тридцать', 'пятый'];	Tags=	Case=Dat;Gender=Masc
+	Output Success=['тридцать', 'пятому']
+
+Input=	['тридцать', 'пятый'];	Tags=	Case=Acc;Gender=Masc;Animacy=Inan
+	Output Success=['тридцать', 'пятый']
+
+Input=	['тридцать', 'пятый'];	Tags=	Case=Acc;Gender=Masc;Animacy=Anim
+	Output Success=['тридцать', 'пятого']
+
+Input=	['тридцать', 'пятый'];	Tags=	Case=Ins;Gender=Masc
+	Output Success=['тридцать', 'пятым']
+
+Input=	['тридцать', 'пятый'];	Tags=	Case=Loc;Gender=Masc
+	Output Success=['тридцать', 'пятом']
+
+Input=	['тридцать', 'пятый'];	Tags=	Case=Nom;Gender=Fem
+	Output Success=['тридцать', 'пятая']
+
+Input=	['тридцать', 'пятый'];	Tags=	Case=Gen;Gender=Fem
+	Output Success=['тридцать', 'пятой']
+
+Input=	['тридцать', 'пятый'];	Tags=	Case=Dat;Gender=Fem
+	Output Success=['тридцать', 'пятой']
+
+Input=	['тридцать', 'пятый'];	Tags=	Case=Acc;Gender=Fem
+	Output Success=['тридцать', 'пятую']
+
+Input=	['тридцать', 'пятый'];	Tags=	Case=Ins;Gender=Fem
+	Output Success=['тридцать', 'пятой']
+
+Input=	['тридцать', 'пятый'];	Tags=	Case=Loc;Gender=Fem
+	Output Success=['тридцать', 'пятой']
+
+Input=	['тридцать', 'пятый'];	Tags=	Case=Nom;Gender=Neut
+	Output Success=['тридцать', 'пятое']
+
+Input=	['тридцать', 'пятый'];	Tags=	Case=Gen;Gender=Neut
+	Output Success=['тридцать', 'пятого']
+
+Input=	['тридцать', 'пятый'];	Tags=	Case=Dat;Gender=Neut
+	Output Success=['тридцать', 'пятому']
+
+Input=	['тридцать', 'пятый'];	Tags=	Case=Acc;Gender=Neut
+	Output Success=['тридцать', 'пятое']
+
+Input=	['тридцать', 'пятый'];	Tags=	Case=Ins;Gender=Neut
+	Output Success=['тридцать', 'пятым']
+
+Input=	['тридцать', 'пятый'];	Tags=	Case=Loc;Gender=Neut
+	Output Success=['тридцать', 'пятом']
+
+Input=	['сотый'];	Tags=	Case=Nom;Gender=Masc
+	Output Success=['сотый']
+
+Input=	['сотый'];	Tags=	Case=Gen;Gender=Masc
+	Output Success=['сотого']
+
+Input=	['сотый'];	Tags=	Case=Dat;Gender=Masc
+	Output Success=['сотому']
+
+Input=	['сотый'];	Tags=	Case=Acc;Gender=Masc;Animacy=Inan
+	Output Success=['сотый']
+
+Input=	['сотый'];	Tags=	Case=Acc;Gender=Masc;Animacy=Anim
+	Output Success=['сотого']
+
+Input=	['сотый'];	Tags=	Case=Ins;Gender=Masc
+	Output Success=['сотым']
+
+Input=	['сотый'];	Tags=	Case=Loc;Gender=Masc
+	Output Success=['сотом']
+
+Input=	['сотый'];	Tags=	Case=Nom;Gender=Fem
+	Output Success=['сотая']
+
+Input=	['сотый'];	Tags=	Case=Gen;Gender=Fem
+	Output Success=['сотой']
+
+Input=	['сотый'];	Tags=	Case=Dat;Gender=Fem
+	Output Success=['сотой']
+
+Input=	['сотый'];	Tags=	Case=Acc;Gender=Fem
+	Output Success=['сотую']
+
+Input=	['сотый'];	Tags=	Case=Ins;Gender=Fem
+	Output Success=['сотой']
+
+Input=	['сотый'];	Tags=	Case=Loc;Gender=Fem
+	Output Success=['сотой']
+
+Input=	['сотый'];	Tags=	Case=Nom;Gender=Neut
+	Output Success=['сотое']
+
+Input=	['сотый'];	Tags=	Case=Gen;Gender=Neut
+	Output Success=['сотого']
+
+Input=	['сотый'];	Tags=	Case=Dat;Gender=Neut
+	Output Success=['сотому']
+
+Input=	['сотый'];	Tags=	Case=Acc;Gender=Neut
+	Output Success=['сотое']
+
+Input=	['сотый'];	Tags=	Case=Ins;Gender=Neut
+	Output Success=['сотым']
+
+Input=	['сотый'];	Tags=	Case=Loc;Gender=Neut
+	Output Success=['сотом']
+
+Input=	['тысячный'];	Tags=	Case=Nom;Gender=Masc
+	Output Success=['тысячный']
+
+Input=	['тысячный'];	Tags=	Case=Gen;Gender=Masc
+	Output Success=['тысячного']
+
+Input=	['тысячный'];	Tags=	Case=Dat;Gender=Masc
+	Output Success=['тысячному']
+
+Input=	['тысячный'];	Tags=	Case=Acc;Gender=Masc;Animacy=Inan
+	Output Success=['тысячный']
+
+Input=	['тысячный'];	Tags=	Case=Acc;Gender=Masc;Animacy=Anim
+	Output Success=['тысячного']
+
+Input=	['тысячный'];	Tags=	Case=Ins;Gender=Masc
+	Output Success=['тысячным']
+
+Input=	['тысячный'];	Tags=	Case=Loc;Gender=Masc
+	Output Success=['тысячном']
+
+Input=	['тысячный'];	Tags=	Case=Nom;Gender=Fem
+	Output Success=['тысячная']
+
+Input=	['тысячный'];	Tags=	Case=Gen;Gender=Fem
+	Output Success=['тысячной']
+
+Input=	['тысячный'];	Tags=	Case=Dat;Gender=Fem
+	Output Success=['тысячной']
+
+Input=	['тысячный'];	Tags=	Case=Acc;Gender=Fem
+	Output Success=['тысячную']
+
+Input=	['тысячный'];	Tags=	Case=Ins;Gender=Fem
+	Output Success=['тысячной']
+
+Input=	['тысячный'];	Tags=	Case=Loc;Gender=Fem
+	Output Success=['тысячной']
+
+Input=	['тысячный'];	Tags=	Case=Nom;Gender=Neut
+	Output Success=['тысячное']
+
+Input=	['тысячный'];	Tags=	Case=Gen;Gender=Neut
+	Output Success=['тысячного']
+
+Input=	['тысячный'];	Tags=	Case=Dat;Gender=Neut
+	Output Success=['тысячному']
+
+Input=	['тысячный'];	Tags=	Case=Acc;Gender=Neut
+	Output Success=['тысячное']
+
+Input=	['тысячный'];	Tags=	Case=Ins;Gender=Neut
+	Output Success=['тысячным']
+
+Input=	['тысячный'];	Tags=	Case=Loc;Gender=Neut
+	Output Success=['тысячном']
+
+Input=	['двухтысячный'];	Tags=	Case=Nom;Gender=Masc
+	Output Success=['двухтысячный']
+
+Input=	['двухтысячный'];	Tags=	Case=Gen;Gender=Masc
+	Output Success=['двухтысячного']
+
+Input=	['двухтысячный'];	Tags=	Case=Dat;Gender=Masc
+	Output Success=['двухтысячному']
+
+Input=	['двухтысячный'];	Tags=	Case=Acc;Gender=Masc;Animacy=Inan
+	Output Success=['двухтысячный']
+
+Input=	['двухтысячный'];	Tags=	Case=Acc;Gender=Masc;Animacy=Anim
+	Output Success=['двухтысячного']
+
+Input=	['двухтысячный'];	Tags=	Case=Ins;Gender=Masc
+	Output Success=['двухтысячным']
+
+Input=	['двухтысячный'];	Tags=	Case=Loc;Gender=Masc
+	Output Success=['двухтысячном']
+
+Input=	['двухтысячный'];	Tags=	Case=Nom;Gender=Fem
+	Output Success=['двухтысячная']
+
+Input=	['двухтысячный'];	Tags=	Case=Gen;Gender=Fem
+	Output Success=['двухтысячной']
+
+Input=	['двухтысячный'];	Tags=	Case=Dat;Gender=Fem
+	Output Success=['двухтысячной']
+
+Input=	['двухтысячный'];	Tags=	Case=Acc;Gender=Fem
+	Output Success=['двухтысячную']
+
+Input=	['двухтысячный'];	Tags=	Case=Ins;Gender=Fem
+	Output Success=['двухтысячной']
+
+Input=	['двухтысячный'];	Tags=	Case=Loc;Gender=Fem
+	Output Success=['двухтысячной']
+
+Input=	['двухтысячный'];	Tags=	Case=Nom;Gender=Neut
+	Output Success=['двухтысячное']
+
+Input=	['двухтысячный'];	Tags=	Case=Gen;Gender=Neut
+	Output Success=['двухтысячного']
+
+Input=	['двухтысячный'];	Tags=	Case=Dat;Gender=Neut
+	Output Success=['двухтысячному']
+
+Input=	['двухтысячный'];	Tags=	Case=Acc;Gender=Neut
+	Output Success=['двухтысячное']
+
+Input=	['двухтысячный'];	Tags=	Case=Ins;Gender=Neut
+	Output Success=['двухтысячным']
+
+Input=	['двухтысячный'];	Tags=	Case=Loc;Gender=Neut
+	Output Success=['двухтысячном']
+
+Input=	['шестьсот', 'третий'];	Tags=	Case=Nom;Gender=Masc
+	Output Success=['шестьсот', 'третий']
+
+Input=	['шестьсот', 'третий'];	Tags=	Case=Gen;Gender=Masc
+	Output Success=['шестьсот', 'третьего']
+
+Input=	['шестьсот', 'третий'];	Tags=	Case=Dat;Gender=Masc
+	Output Success=['шестьсот', 'третьему']
+
+Input=	['шестьсот', 'третий'];	Tags=	Case=Acc;Gender=Masc;Animacy=Inan
+	Output Success=['шестьсот', 'третий']
+
+Input=	['шестьсот', 'третий'];	Tags=	Case=Acc;Gender=Masc;Animacy=Anim
+	Output Success=['шестьсот', 'третьего']
+
+Input=	['шестьсот', 'третий'];	Tags=	Case=Ins;Gender=Masc
+	Output Success=['шестьсот', 'третьим']
+
+Input=	['шестьсот', 'третий'];	Tags=	Case=Loc;Gender=Masc
+	Output Success=['шестьсот', 'третьем']
+
+Input=	['шестьсот', 'третий'];	Tags=	Case=Nom;Gender=Fem
+	Output Success=['шестьсот', 'третья']
+
+Input=	['шестьсот', 'третий'];	Tags=	Case=Gen;Gender=Fem
+	Output Success=['шестьсот', 'третьей']
+
+Input=	['шестьсот', 'третий'];	Tags=	Case=Dat;Gender=Fem
+	Output Success=['шестьсот', 'третьей']
+
+Input=	['шестьсот', 'третий'];	Tags=	Case=Acc;Gender=Fem
+	Output Success=['шестьсот', 'третью']
+
+Input=	['шестьсот', 'третий'];	Tags=	Case=Ins;Gender=Fem
+	Output Success=['шестьсот', 'третьей']
+
+Input=	['шестьсот', 'третий'];	Tags=	Case=Loc;Gender=Fem
+	Output Success=['шестьсот', 'третьей']
+
+Input=	['шестьсот', 'третий'];	Tags=	Case=Nom;Gender=Neut
+	Output Success=['шестьсот', 'третье']
+
+Input=	['шестьсот', 'третий'];	Tags=	Case=Gen;Gender=Neut
+	Output Success=['шестьсот', 'третьего']
+
+Input=	['шестьсот', 'третий'];	Tags=	Case=Dat;Gender=Neut
+	Output Success=['шестьсот', 'третьему']
+
+Input=	['шестьсот', 'третий'];	Tags=	Case=Acc;Gender=Neut
+	Output Success=['шестьсот', 'третье']
+
+Input=	['шестьсот', 'третий'];	Tags=	Case=Ins;Gender=Neut
+	Output Success=['шестьсот', 'третьим']
+
+Input=	['шестьсот', 'третий'];	Tags=	Case=Loc;Gender=Neut
+	Output Success=['шестьсот', 'третьем']
+
+Input=	['оба'];	Tags=	Case=Nom;Gender=Masc
+	Output Success=['оба']
+
+Input=	['оба'];	Tags=	Case=Gen;Gender=Masc
+	Output Success=['обоих']
+
+Input=	['оба'];	Tags=	Case=Dat;Gender=Masc
+	Output Success=['обоим']
+
+Input=	['оба'];	Tags=	Case=Acc;Gender=Masc;Animacy=Inan
+	Output Success=['оба']
+
+Input=	['оба'];	Tags=	Case=Acc;Gender=Masc;Animacy=Anim
+	Output Success=['обоих']
+
+Input=	['оба'];	Tags=	Case=Ins;Gender=Masc
+	Output Success=['обоими']
+
+Input=	['оба'];	Tags=	Case=Loc;Gender=Masc
+	Output Success=['обоих']
+
+Input=	['оба'];	Tags=	Case=Nom;Gender=Fem
+	Output Success=['обе']
+
+Input=	['оба'];	Tags=	Case=Gen;Gender=Fem
+	Output Success=['обеих']
+
+Input=	['оба'];	Tags=	Case=Dat;Gender=Fem
+	Output Success=['обеим']
+
+Input=	['оба'];	Tags=	Case=Acc;Gender=Fem;Animacy=Inan
+	Output Success=['обе']
+
+Input=	['оба'];	Tags=	Case=Acc;Gender=Fem;Animacy=Anim
+	Output Success=['обеих']
+
+Input=	['оба'];	Tags=	Case=Ins;Gender=Fem
+	Output Success=['обеими']
+
+Input=	['оба'];	Tags=	Case=Loc;Gender=Fem
+	Output Success=['обеих']
+
+Input=	['двое'];	Tags=	Case=Nom
+	Output Success=['двое']
+
+Input=	['двое'];	Tags=	Case=Gen
+	Output Success=['двоих']
+
+Input=	['двое'];	Tags=	Case=Dat
+	Output Success=['двоим']
+
+Input=	['двое'];	Tags=	Case=Acc;Animacy=Anim
+	Output Success=['двоих']
+
+Input=	['двое'];	Tags=	Case=Acc;Animacy=Inan
+	Output Success=['двое']
+
+Input=	['двое'];	Tags=	Case=Ins
+	Output Success=['двоими']
+
+Input=	['двое'];	Tags=	Case=Loc
+	Output Success=['двоих']
+
+Input=	['трое'];	Tags=	Case=Nom
+	Output Success=['трое']
+
+Input=	['трое'];	Tags=	Case=Gen
+	Output Success=['троих']
+
+Input=	['трое'];	Tags=	Case=Dat
+	Output Success=['троим']
+
+Input=	['трое'];	Tags=	Case=Acc;Animacy=Anim
+	Output Success=['троих']
+
+Input=	['трое'];	Tags=	Case=Acc;Animacy=Inan
+	Output Success=['трое']
+
+Input=	['трое'];	Tags=	Case=Ins
+	Output Success=['троими']
+
+Input=	['трое'];	Tags=	Case=Loc
+	Output Success=['троих']
+
+Input=	['четверо'];	Tags=	Case=Nom
+	Output Success=['четверо']
+
+Input=	['четверо'];	Tags=	Case=Gen
+	Output Success=['четверых']
+
+Input=	['четверо'];	Tags=	Case=Dat
+	Output Success=['четверым']
+
+Input=	['четверо'];	Tags=	Case=Acc;Animacy=Inan
+	Output Success=['четверо']
+
+Input=	['четверо'];	Tags=	Case=Acc;Animacy=Anim
+	Output Success=['четверых']
+
+Input=	['четверо'];	Tags=	Case=Ins
+	Output Success=['четверыми']
+
+Input=	['четверо'];	Tags=	Case=Loc
+	Output Success=['четверых']
+
+	Captured=0.9892086330935251;	overall tests =556
+
